@@ -1,7 +1,13 @@
+/**
+ *Author:Matthew Brockman
+ *8/28/25
+ *Prints Name
+ */
+
 #include <stdio.h>
 
 int main(void) {
-    printf("Hello World\n");
-    printf("My major is computer engineering.");
+    //Output prints
+    printf("Matthew Brockman");
 
 }
