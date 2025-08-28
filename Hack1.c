@@ -8,6 +8,7 @@
 
 int main(void) {
     //Output prints
+    printf("Computer Engineering");
     printf("Matthew Brockman");
 
 }
